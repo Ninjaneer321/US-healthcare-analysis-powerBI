@@ -101,7 +101,7 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights.git
+   git clone https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights.git
    ```
 
 2. **Open the Power BI file:**
